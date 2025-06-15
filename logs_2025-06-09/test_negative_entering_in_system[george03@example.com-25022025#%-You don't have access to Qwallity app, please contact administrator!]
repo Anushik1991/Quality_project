@@ -1,0 +1,7 @@
+2025-06-09 12:02:39,142 - INFO - test_negative_entering_in_system[george03@example.com-25022025#%-You don't have access to Qwallity app, please contact administrator!] is started
+2025-06-09 12:02:40,156 - INFO - Test 2: Entering system with incorrect data: email=george03@example.com, password=25022025#%
+2025-06-09 12:02:40,157 - INFO - Filling email_access
+2025-06-09 12:02:40,528 - INFO - Filling code
+2025-06-09 12:02:40,771 - INFO - Clicking send button
+2025-06-09 12:02:41,437 - INFO - Fail message text: Enter to Qwallity app
+2025-06-09 12:02:41,439 - INFO - test_negative_entering_in_system[george03@example.com-25022025#%-You don't have access to Qwallity app, please contact administrator!] is finished

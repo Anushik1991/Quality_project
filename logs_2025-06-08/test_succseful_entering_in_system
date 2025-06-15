@@ -1,0 +1,7 @@
+2025-06-08 16:07:55,468 - INFO - test_succseful_entering_in_system is started
+2025-06-08 16:07:56,506 - INFO - test_1 entering system
+2025-06-08 16:07:56,506 - INFO - Filling email_access
+2025-06-08 16:07:56,678 - INFO - Filling code
+2025-06-08 16:07:56,770 - INFO - Clicking send button
+2025-06-08 16:08:00,522 - INFO - Current URL: https://qwallity-prod.onrender.com/home
+2025-06-08 16:08:00,554 - INFO - test_succseful_entering_in_system is finished

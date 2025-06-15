@@ -1,0 +1,8 @@
+2025-06-09 16:37:32,515 - INFO - test_negative_entering_in_system[qwallityautomation25022025@gmail.com-wShG9PtxQ-;,-You don't have access to Qwallity app, please contact administrator!] is started
+2025-06-09 16:37:33,251 - INFO - Test 2: Entering system with incorrect data: email=qwallityautomation25022025@gmail.com, password=wShG9PtxQ-;,
+2025-06-09 16:37:33,253 - INFO - Filling email_access
+2025-06-09 16:37:33,720 - INFO - Filling code
+2025-06-09 16:37:33,932 - INFO - Clicking send button
+2025-06-09 16:37:34,515 - ERROR - Success messga is not displayed: 'NoneType' object has no attribute 'strip'
+2025-06-09 16:37:34,695 - INFO - Screenshot saved: C:\Users\User\Documents\GitHub\My_project\Quality_Pytest\lib\..\screenshots\message_error_20250609_163734.png
+2025-06-09 16:37:34,703 - INFO - test_negative_entering_in_system[qwallityautomation25022025@gmail.com-wShG9PtxQ-;,-You don't have access to Qwallity app, please contact administrator!] is finished

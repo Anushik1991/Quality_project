@@ -1,0 +1,7 @@
+2025-06-09 17:43:51,650 - INFO - test_successful_entering_in_system is started
+2025-06-09 17:43:52,355 - INFO - test_1 entering system with corecct data
+2025-06-09 17:43:52,355 - INFO - Filling email_access
+2025-06-09 17:43:52,690 - INFO - Filling code
+2025-06-09 17:43:52,894 - INFO - Clicking send button
+2025-06-09 17:43:57,037 - INFO - Current URL after redirect: https://qwallity-prod.onrender.com/home
+2025-06-09 17:43:57,064 - INFO - test_successful_entering_in_system is finished

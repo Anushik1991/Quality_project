@@ -1,0 +1,16 @@
+2025-06-08 16:15:41,087 - INFO - test is started
+2025-06-08 16:15:41,776 - INFO - test_1 entering system
+2025-06-08 16:15:41,777 - INFO - Filling email_access
+2025-06-08 16:15:41,938 - INFO - Filling code
+2025-06-08 16:15:42,048 - INFO - Clicking send button
+2025-06-08 16:15:45,596 - INFO - test_2 registrtaion in system
+2025-06-08 16:15:45,936 - INFO - Current URL: https://qwallity-prod.onrender.com/register
+2025-06-08 16:15:45,936 - INFO - Filling name
+2025-06-08 16:15:46,061 - INFO - Filling email
+2025-06-08 16:15:46,194 - INFO - Filling username
+2025-06-08 16:15:46,300 - INFO - Filling username
+2025-06-08 16:15:46,407 - INFO - Filling username
+2025-06-08 16:15:46,525 - INFO - Clicking submit button
+2025-06-08 16:15:48,682 - ERROR - Success messga is not displayed: 'function' object has no attribute 'text'
+2025-06-08 16:15:48,824 - INFO - Screenshot saved: C:\Users\User\Documents\GitHub\My_project\Quality_Pytest\lib\..\screenshots\message_error_20250608_161548.png
+2025-06-08 16:15:48,931 - INFO - test is finished

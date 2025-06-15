@@ -1,0 +1,14 @@
+2025-06-09 16:37:44,330 - INFO - test_generaling is started
+2025-06-09 16:37:44,977 - INFO - test_1 entering system
+2025-06-09 16:37:44,977 - INFO - Filling email_access
+2025-06-09 16:37:45,368 - INFO - Filling code
+2025-06-09 16:37:45,576 - INFO - Clicking send button
+2025-06-09 16:37:50,233 - INFO - test_2 registrtaion in system
+2025-06-09 16:37:50,761 - INFO - Current URL after redirect: https://qwallity-prod.onrender.com/register
+2025-06-09 16:37:50,761 - INFO - Filling name
+2025-06-09 16:37:51,024 - INFO - Filling email
+2025-06-09 16:37:51,267 - INFO - Filling username
+2025-06-09 16:37:51,482 - INFO - Filling username
+2025-06-09 16:37:51,700 - INFO - Filling username
+2025-06-09 16:37:51,916 - INFO - Clicking submit button
+2025-06-09 16:37:54,605 - INFO - test_generaling is finished

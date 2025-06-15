@@ -1,0 +1,104 @@
+2025-06-08 17:49:22,301 - INFO - test_negative_entering_in_system[jamesleonard@example.org-25022025#%-You don't have access to Qwallity app, please contact administrator!] is started
+2025-06-08 17:49:23,058 - INFO - Test 2: Entering system with incorrect data: email=jamesleonard@example.org, password=25022025#%
+2025-06-08 17:49:23,058 - INFO - Filling email_access
+2025-06-08 17:49:28,190 - ERROR - input_email_field is not found Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff79963fea5+79173]
+	GetHandleVerifier [0x0x7ff79963ff00+79264]
+	(No symbol) [0x0x7ff7993f9e5a]
+	(No symbol) [0x0x7ff799450586]
+	(No symbol) [0x0x7ff79945083c]
+	(No symbol) [0x0x7ff7994a4247]
+	(No symbol) [0x0x7ff7994789af]
+	(No symbol) [0x0x7ff7994a100d]
+	(No symbol) [0x0x7ff799478743]
+	(No symbol) [0x0x7ff7994414c1]
+	(No symbol) [0x0x7ff799442253]
+	GetHandleVerifier [0x0x7ff79990a2dd+3004797]
+	GetHandleVerifier [0x0x7ff79990472d+2981325]
+	GetHandleVerifier [0x0x7ff799923380+3107360]
+	GetHandleVerifier [0x0x7ff79965aa2e+188622]
+	GetHandleVerifier [0x0x7ff7996622bf+219487]
+	GetHandleVerifier [0x0x7ff799648df4+115860]
+	GetHandleVerifier [0x0x7ff799648fa9+116297]
+	GetHandleVerifier [0x0x7ff79962f558+11256]
+	BaseThreadInitThunk [0x0x7ff8fe62259d+29]
+	RtlUserThreadStart [0x0x7ff9007aaf38+40]
+
+2025-06-08 17:49:28,190 - INFO - Filling code
+2025-06-08 17:49:33,304 - ERROR - input_password_field is not found Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff79963fea5+79173]
+	GetHandleVerifier [0x0x7ff79963ff00+79264]
+	(No symbol) [0x0x7ff7993f9e5a]
+	(No symbol) [0x0x7ff799450586]
+	(No symbol) [0x0x7ff79945083c]
+	(No symbol) [0x0x7ff7994a4247]
+	(No symbol) [0x0x7ff7994789af]
+	(No symbol) [0x0x7ff7994a100d]
+	(No symbol) [0x0x7ff799478743]
+	(No symbol) [0x0x7ff7994414c1]
+	(No symbol) [0x0x7ff799442253]
+	GetHandleVerifier [0x0x7ff79990a2dd+3004797]
+	GetHandleVerifier [0x0x7ff79990472d+2981325]
+	GetHandleVerifier [0x0x7ff799923380+3107360]
+	GetHandleVerifier [0x0x7ff79965aa2e+188622]
+	GetHandleVerifier [0x0x7ff7996622bf+219487]
+	GetHandleVerifier [0x0x7ff799648df4+115860]
+	GetHandleVerifier [0x0x7ff799648fa9+116297]
+	GetHandleVerifier [0x0x7ff79962f558+11256]
+	BaseThreadInitThunk [0x0x7ff8fe62259d+29]
+	RtlUserThreadStart [0x0x7ff9007aaf38+40]
+
+2025-06-08 17:49:33,305 - INFO - Clicking send button
+2025-06-08 17:49:38,417 - ERROR - sen_button is not found Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff79963fea5+79173]
+	GetHandleVerifier [0x0x7ff79963ff00+79264]
+	(No symbol) [0x0x7ff7993f9e5a]
+	(No symbol) [0x0x7ff799450586]
+	(No symbol) [0x0x7ff79945083c]
+	(No symbol) [0x0x7ff7994a4247]
+	(No symbol) [0x0x7ff7994789af]
+	(No symbol) [0x0x7ff7994a100d]
+	(No symbol) [0x0x7ff799478743]
+	(No symbol) [0x0x7ff7994414c1]
+	(No symbol) [0x0x7ff799442253]
+	GetHandleVerifier [0x0x7ff79990a2dd+3004797]
+	GetHandleVerifier [0x0x7ff79990472d+2981325]
+	GetHandleVerifier [0x0x7ff799923380+3107360]
+	GetHandleVerifier [0x0x7ff79965aa2e+188622]
+	GetHandleVerifier [0x0x7ff7996622bf+219487]
+	GetHandleVerifier [0x0x7ff799648df4+115860]
+	GetHandleVerifier [0x0x7ff799648fa9+116297]
+	GetHandleVerifier [0x0x7ff79962f558+11256]
+	BaseThreadInitThunk [0x0x7ff8fe62259d+29]
+	RtlUserThreadStart [0x0x7ff9007aaf38+40]
+
+2025-06-08 17:49:48,634 - ERROR - danger_alert_message is not found Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x7ff79963fea5+79173]
+	GetHandleVerifier [0x0x7ff79963ff00+79264]
+	(No symbol) [0x0x7ff7993f9e5a]
+	(No symbol) [0x0x7ff799450586]
+	(No symbol) [0x0x7ff79945083c]
+	(No symbol) [0x0x7ff7994a4247]
+	(No symbol) [0x0x7ff7994789af]
+	(No symbol) [0x0x7ff7994a100d]
+	(No symbol) [0x0x7ff799478743]
+	(No symbol) [0x0x7ff7994414c1]
+	(No symbol) [0x0x7ff799442253]
+	GetHandleVerifier [0x0x7ff79990a2dd+3004797]
+	GetHandleVerifier [0x0x7ff79990472d+2981325]
+	GetHandleVerifier [0x0x7ff799923380+3107360]
+	GetHandleVerifier [0x0x7ff79965aa2e+188622]
+	GetHandleVerifier [0x0x7ff7996622bf+219487]
+	GetHandleVerifier [0x0x7ff799648df4+115860]
+	GetHandleVerifier [0x0x7ff799648fa9+116297]
+	GetHandleVerifier [0x0x7ff79962f558+11256]
+	BaseThreadInitThunk [0x0x7ff8fe62259d+29]
+	RtlUserThreadStart [0x0x7ff9007aaf38+40]
+
+2025-06-08 17:49:48,634 - ERROR - Success messga is not displayed: 'NoneType' object has no attribute 'text'
+2025-06-08 17:49:48,760 - INFO - Screenshot saved: C:\Users\User\Documents\GitHub\My_project\Quality_Pytest\lib\..\screenshots\message_error_20250608_174948.png
+2025-06-08 17:49:48,875 - INFO - test_negative_entering_in_system[jamesleonard@example.org-25022025#%-You don't have access to Qwallity app, please contact administrator!] is finished

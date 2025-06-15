@@ -1,0 +1,19 @@
+2025-06-09 17:58:05,079 - INFO - test_registration is started
+2025-06-09 17:58:05,952 - INFO - Filling email_access
+2025-06-09 17:58:06,191 - INFO - Filling code
+2025-06-09 17:58:06,296 - INFO - Clicking send button
+2025-06-09 17:58:10,319 - INFO - Filling name
+2025-06-09 17:58:10,435 - INFO - Filling email
+2025-06-09 17:58:10,560 - INFO - Filling username
+2025-06-09 17:58:10,676 - INFO - Filling username
+2025-06-09 17:58:10,781 - INFO - Filling username
+2025-06-09 17:58:10,897 - INFO - Clicking submit button
+2025-06-09 17:58:13,223 - INFO - Current URL after redirect: https://qwallity-prod.onrender.com/login
+2025-06-09 17:58:13,354 - INFO - Login title text: Login
+2025-06-09 17:58:13,355 - INFO - test_3 log in system
+2025-06-09 17:58:13,355 - INFO - Filling email
+2025-06-09 17:58:13,485 - INFO - Filling password
+2025-06-09 17:58:13,639 - INFO - Clicking log_in button
+2025-06-09 17:58:21,778 - INFO - Current URL after redirect: https://qwallity-prod.onrender.com/home
+2025-06-09 17:58:21,943 - INFO - Welcome message text: Welcome myersdeanna822!
+2025-06-09 17:58:21,945 - INFO - test_registration is finished
