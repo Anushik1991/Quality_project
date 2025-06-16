@@ -13,7 +13,7 @@ from data.data_file import email, password
 
 @pytest.mark.smoke
 @pytest.mark.regression
-@pytest.mark.positve
+@pytest.mark.positive
 @allure.title("Verify that user got the access to system with correct credentional")
 @allure.severity(allure.severity_level.CRITICAL)
 def test_successful_entering_in_system(get_driver, get_logger):

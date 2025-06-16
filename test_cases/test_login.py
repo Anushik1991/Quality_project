@@ -17,7 +17,7 @@ from config.config_file import url, email_access, password_access
 @allure.title("Verify that user is logged to system")
 @allure.severity(allure.severity_level.CRITICAL)
 @pytest.mark.smoke
-@pytest.mark.positve
+@pytest.mark.positive
 def test_registration(get_driver, get_logger):
     helper = Helper(get_driver, get_logger)
     enter_qwallity_obj = Security(get_driver, get_logger)
